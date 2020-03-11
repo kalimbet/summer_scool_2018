@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1539358434 source:c:\users\wikto\desktop\myprojects\ex3\main.cpp
+	<iostream>
+	<cmath>
+	"Point.h"
+	"Triangle.h"
+
+1539358097 c:\users\wikto\desktop\myprojects\ex3\include\point.h
+
+1539358528 source:c:\users\wikto\desktop\myprojects\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1539357385 c:\users\wikto\desktop\myprojects\ex3\include\triangle.h
+
+1539357490 source:c:\users\wikto\desktop\myprojects\ex3\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+	"cmath"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539089503 source:c:\users\wikto\desktop\myprojects\firstproject\main.cpp
+	<iostream>
+	<cmath>
+
